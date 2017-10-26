@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (gtest.vcxproj, sample_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  test_tmatrix.cpp
+c:\users\hp\downloads\mp2-lab2-matrix-master\test\test_tmatrix.cpp(152): warning C4002: слишком много фактических параметров для макроопределения "ASSERT_NO_THROW"
+c:\users\hp\downloads\mp2-lab2-matrix-master\test\test_tmatrix.cpp(171): warning C4002: слишком много фактических параметров для макроопределения "ASSERT_NO_THROW"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (sample_utmatrix.vcxproj, test_utmatrix.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  test_utmatrix.vcxproj -> C:\Users\HP\Downloads\mp2-lab2-matrix-master\sln\vc10\Debug\test_utmatrix.exe
+  test_utmatrix.vcxproj -> C:\Users\HP\Downloads\mp2-lab2-matrix-master\sln\vc10\Debug\test_utmatrix.pdb (Full PDB)
